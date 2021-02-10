@@ -3,7 +3,7 @@
 
 ![enter image description here](https://i.ibb.co/JCNPmLq/Screenshot-2021-02-10-095120.jpg)
 
-It's an sqlite db containing **22409485** uniq entries.
+It's an sqlite db containing **22409485** uniq entries. Unzipped the database is **5.86 GB**
 
  1. Clear and hashed password from RockYou
  2. Clear and hashed password from Ashley Madison leak
