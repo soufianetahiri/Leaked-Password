@@ -14,3 +14,4 @@ It's an sqlite db containing **22409485** uniq entries. Unzipped the database is
  7. Clear and hashed password from Openwall.net
  8. Clear and hashed password from Most-Popular-Letter-Passes
  9. Clear and hashed password from Keyboard-Combinations
+ 10. Clear and hashed password from Richelieu-french-top20000
